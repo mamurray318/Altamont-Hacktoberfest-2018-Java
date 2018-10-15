@@ -17,6 +17,8 @@ public static void main( String args[] ) {
    
    system.out.println("Hello, this is Eddy!");
   
+   system.out.println("hi, this is Elle");
+  
    system.out.println("Hello, this is a person who wants pizza very much!");
   
    system.out.println("Hello, this is caden");
