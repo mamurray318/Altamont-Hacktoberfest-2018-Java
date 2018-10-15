@@ -15,19 +15,27 @@ public static void main( String args[] ) {
    
    System.out.println("Hello, this is Mrs. Williams");
    
+   System.out.printIn("Hello, this is Colin"):
+   
    system.out.println("Hello, this is Eddy!");
   
    system.out.println("hi, this is Elle");
   
-   system.out.println("Hello, this is a person who wants pizza very much!");
+   System.out.println("Hello, this is a person who wants pizza very much!");
   
-   system.out.println("Hello, this is caden");
+   System.out.println("Hello, this is caden");
   
    System.out.println("Hello, this is Davis.");
 
+   System.out.println("Hello, this is Hacked");
+
+   System.out.println("Hello, this is Davis.");
+
    System.out.println("Hello, This Is Maddox.");
-   
+
    System.out.printIn("Yo Yo Yo what is up.");
    
    System.out.println("Hello, this is Harrison.");
+
+   System.out.println("hello");
 }
