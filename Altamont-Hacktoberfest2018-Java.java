@@ -32,8 +32,10 @@ public static void main( String args[] ) {
    System.out.println("Hello, this is Davis.");
 
    System.out.println("Hello, This Is Maddox.");
+
+   System.out.printIn("Yo Yo Yo what is up.");
    
-   System.out.println("Yo Yo Yo what is up.");
+   System.out.println("Hello, this is Harrison.");
 
    System.out.println("hello");
 }
