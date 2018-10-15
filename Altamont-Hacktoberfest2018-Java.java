@@ -23,7 +23,7 @@ public static void main( String args[] ) {
   
    system.out.println("Hello, this is caden");
   
-   System.out,println("Hello, this is Davis.");
+   System.out.println("Hello, this is Davis.");
    
-   System.out,println("Hello, I am.......Your worst nightmare");
+   System.out.println("Hello, I am.......Your worst nightmare")
 }
