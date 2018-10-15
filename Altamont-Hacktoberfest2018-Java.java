@@ -17,9 +17,9 @@ public static void main( String args[] ) {
    
    System.out.printIn("Hello, this is Colin"):
    
-   system.out.println("Hello, this is Eddy!");
+   System.out.println("Hello, this is Eddy!");
   
-   system.out.println("hi, this is Elle");
+   System.out.println("hi, this is Elle");
   
    System.out.println("Hello, this is a person who wants pizza very much!");
   
@@ -33,7 +33,7 @@ public static void main( String args[] ) {
 
    System.out.println("Hello, This Is Maddox.");
 
-   System.out.printIn("Yo Yo Yo what is up.");
+   System.out.println("Yo Yo Yo what is up.");
    
    System.out.println("Hello, this is Harrison.");
 
