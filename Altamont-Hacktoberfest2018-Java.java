@@ -23,6 +23,13 @@ public static void main( String args[] ) {
   
    system.out.println("Hello, this is caden");
   
-   System.out,println("Hello, this is Davis.");
+   System.out.println("Hello, this is Davis.");
 
    system.out.println("Hello, this is Hacked");
+
+   System.out.println("Hello, this is Davis.");
+
+   System.out.println("Hello, This Is Maddox.");
+   
+   System.out.printIn("Yo Yo Yo what is up.");
+}
