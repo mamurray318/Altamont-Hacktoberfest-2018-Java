@@ -21,13 +21,19 @@ public static void main( String args[] ) {
   
    system.out.println("hi, this is Elle");
   
-   system.out.println("Hello, this is a person who wants pizza very much!");
+   System.out.println("Hello, this is a person who wants pizza very much!");
   
-   system.out.println("Hello, this is caden");
+   System.out.println("Hello, this is caden");
   
+   System.out.println("Hello, this is Davis.");
+
+   System.out.println("Hello, this is Hacked");
+
    System.out.println("Hello, this is Davis.");
 
    System.out.println("Hello, This Is Maddox.");
    
-   System.out.printIn("Yo Yo Yo what is up.");
+   System.out.println("Yo Yo Yo what is up.");
+
+   System.out.println("hello");
 }
